@@ -1,6 +1,9 @@
 ---
 name: Spike
 about: Suggest an analysis of a problem
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
