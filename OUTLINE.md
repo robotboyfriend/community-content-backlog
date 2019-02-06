@@ -91,6 +91,8 @@ The structure looks better and better! Sleep on it and try to polish it a few mo
 
 The main point of all this work is to ensure a good flow of content. It shapes your ideas so that you don't jump from one to another and confuse your readers. It is a critical step as good flow will make sure that already hooked readers will continue reading till the end of the article.
 
+For more thorough information about writing perfect outlines please refer to following blog post: [How to Write a Blog Post Outline: A Simple Formula to Follow](https://blog.hubspot.com/marketing/how-to-write-blog-post-outline)
+
 ## Summary
 
 At the end of your article briefly summarize what you wrote about and emphasize the key takeaways. If there is more to read on the subject, make sure to include links to that content here and point the reader in the right direction.
