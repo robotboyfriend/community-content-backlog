@@ -23,3 +23,6 @@ If you feel passionate about something, that passion can encourage others to try
 # Getting in touch
 
 If you have any questions or you already have a topic in mind, please [let us know](mailto:developerscommunity@kentico.com).
+
+
+![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/community-content-backlog?pixel)
