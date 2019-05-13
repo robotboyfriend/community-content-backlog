@@ -14,7 +14,7 @@ If you feel passionate about something, that passion can encourage others to try
 
 # Where to start?
 
-* Think of a topic the community should learn about, pick one from the list of issues or get in touch with us and we'll recommend you one.
+* Think of a topic the community should learn about, pick one from [the list of issues](https://github.com/Kentico/community-content-backlog/issues) or [get in touch with us](mailto:developerscommunity@kentico.com) and we'll recommend you one.
 * We will assign the issue to you and you can start creating the content outline
 * Create awesome content.
 * We'll make sure your blog/video/podcast gets appropriate traction and support on our social media
